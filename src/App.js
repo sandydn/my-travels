@@ -1,7 +1,10 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Travel from './Travel';
+
+import Travel from './components/Travel';
+import Travels from './components/Travels';
+
 
 
 class App extends Component {
@@ -24,6 +27,7 @@ class App extends Component {
           photo="https://www.gla.ac.uk/media/media_375632_en.jpg"
           distance="1092 km"
         />
+        <Travels />
       </div>
     );
   }

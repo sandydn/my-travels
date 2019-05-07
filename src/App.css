@@ -1,5 +1,9 @@
+
 .App {
   text-align: center;
+  background-image: url("http://www.bcastropics.com/img/gallery/2/Mean-M16-SiiHaOiii-1260-b_full.jpg");
+  background-repeat: inherit;
+  color: whitesmoke;
 }
 
 .App-logo {

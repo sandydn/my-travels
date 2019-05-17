@@ -13,6 +13,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
+          <h2>Bienvenue sur Netlify !</h2>
           <h1 className="App-title">Travels</h1>
         </header>
         <Travel 
